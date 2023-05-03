@@ -1,0 +1,6 @@
+body{background-color:#ECA8E2;}
+h1{color:#FF335B;font-family:Helvetica;font-size:40px; border-style:double; border-width:3px; border-color:#F56931;}
+p{color:#F333FF;font-family:Helvetica;font-size:14px;}
+a{color:#FF33A8;font-family:Helvetica;font-size:14px;text-decoration:none;}
+img{border-style:dotted;border-width:3px;background-color:#CF4B21;}
+a:hover{color:black;}
